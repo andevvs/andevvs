@@ -2,7 +2,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](instagram.com/andreikkjk)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andevvs&show_icons=true&theme=tokyonight)
+![andevvs GitHub stats](https://github-readme-stats.vercel.app/api?username=andevvs&show_icons=true&theme=tokyonight)
 
 ## Tecnologias 
 
