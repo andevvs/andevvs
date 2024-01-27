@@ -1,8 +1,8 @@
 ## Olá, Eu sou o Andre!💻
-
+---
 ### 📝Sobre mim
 
-Atualmente tenho 18 anos e estou cursando Tecnologia da Informação pela Universidade Federal do Semi Árido (UFERSA)
+### **_Tenho 18 anos e estou cursando B.T.I na UFERSA._**  
 
 ### Contatos
 
