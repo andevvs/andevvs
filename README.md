@@ -1,8 +1,10 @@
-### Olá, Eu sou o Andre!💻
+## Olá, Eu sou o Andre!💻
 
-## 📝Sobre mim
+### 📝Sobre mim
 
 Atualmente tenho 18 anos e estou cursando Tecnologia da Informação pela Universidade Federal do Semi Árido (UFERSA)
+
+### Contatos
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](instagram.com/andreikkjk)
 
