@@ -15,7 +15,7 @@
 ![andevvs GitHub stats](https://github-readme-stats.vercel.app/api?username=andevvs&show_icons=true&theme=graywhite)
 
 ## Tecnologias 
-
+---
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-FFFFFF?style=for-the-badge&logo=html5&logoColor=black" />
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-FFFFFF?style=for-the-badge&logo=css3&logoColor=black" />
