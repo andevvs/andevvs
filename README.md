@@ -2,7 +2,7 @@
 
 <img align= "right" height="500em" src="https://raw.githubusercontent.com/gist/andevvs/7d63bb82bb72dc0818f719a645a9d617/raw/9f3af83b26532cb9b882ebdd33274cca0734fc83/gitcard.svg"/>
 
-## Olá, Eu sou o Andre!💻
+## Olá, Eu sou o Andrei!💻
 ---
 ### 📝Sobre mim
 
