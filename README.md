@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=00B6FF&section=header&reversal=false"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=F9F9F4&section=header&reversal=false"/>
 
 <img align= "right" height="500em" src="https://raw.githubusercontent.com/gist/andevvs/7d63bb82bb72dc0818f719a645a9d617/raw/9f3af83b26532cb9b882ebdd33274cca0734fc83/gitcard.svg"/>
 
@@ -12,7 +12,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](instagram.com/andreikkjk)
 
-![andevvs GitHub stats](https://github-readme-stats.vercel.app/api?username=andevvs&show_icons=true&theme=transparent)
+![andevvs GitHub stats](https://github-readme-stats.vercel.app/api?username=andevvs&show_icons=true&theme=graywhite)
 
 ## Tecnologias 
 
@@ -26,4 +26,4 @@ Explorando o universo da inovação e tecnologia, onde cada linha de código é 
 
 [![](https://visitcount.itsvg.in/api?id=andevvs&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=110&color=00B6FF&section=footer&reversal=false"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=110&color=F9F9F4&section=footer&reversal=false"/>
