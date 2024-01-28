@@ -10,7 +10,7 @@
 
 ### Contatos
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](instagram.com/andreikkjk)
+[![Instagram](https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=black)](instagram.com/andreikkjk)
 
 ![andevvs GitHub stats](https://github-readme-stats.vercel.app/api?username=andevvs&show_icons=true&theme=graywhite)
 
