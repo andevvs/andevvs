@@ -10,7 +10,7 @@
 
 ### Contatos
 
-[![Instagram](https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=black)](instagram.com/andreikkjk)
+<a href="https://www.instagram.com/andreikkjk/" target="_blank"><img src="https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"/></a>
 
 ![andevvs GitHub stats](https://github-readme-stats.vercel.app/api?username=andevvs&show_icons=true&theme=graywhite)
 
@@ -23,7 +23,7 @@
    <img align="center" alt="c" src="https://img.shields.io/badge/C-FFFFFF?style=for-the-badge&logo=c&logoColor=black" />
 </div><br/>
 
-Explorando o universo da inovação e tecnologia, onde cada linha de código é uma oportunidade para criar o futuro digital que imaginamos
+*Explorando o universo da inovação e tecnologia, onde cada linha de código é uma oportunidade para criar o futuro digital que imaginamos*
 
 [![](https://visitcount.itsvg.in/api?id=andevvs&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
